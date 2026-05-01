@@ -90,12 +90,6 @@ It is recommended to use environment variables (`.env`) for production use.
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your app here for better presentation)
-
----
-
 ## 🤝 Contribution
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
